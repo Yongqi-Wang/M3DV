@@ -1,2 +1,2 @@
 # M3DV
-Run main.py and result.csv will be generate
+Run test.py and result.csv will be generate
